@@ -37,4 +37,14 @@ The non-relational data from the web scrape is stored in the lightweight databas
 * All the data is inserted into MongoDB.
 * The data to be displayed is then acccessed from MongoDB *mongo.db.mars*
 
+### Bootstrap components:
+Bootstrap components are used to enhance and polich the HTML and CSS of the index.html file.
+
 ## Summary:
+This analysis included:
+* Scrapng new web data using splinter and BeautifulSoup.
+* Stored the web data in the MongoDB Database
+* Use Flask and put all data that is gathered into easy-to-view web application.
+* Boostrap components were used to enhace HTML and CSS in the index.html file.
+
+* 
